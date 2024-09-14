@@ -46,6 +46,7 @@ android {
 }
 
 dependencies {
+    implementation 'com.github.User:Repo:Tag'
     repositories {
         maven { url "https://maven.google.com" }
     }
